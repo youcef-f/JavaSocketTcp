@@ -81,3 +81,24 @@ public class Client {
 	}
 }
 ```
+
+
+## Resultat
+
+- Client side
+
+```console
+saisir un nombre
+5
+Reponse: 10
+
+```
+
+- Server side
+
+```console
+ J'attends une connection
+J'attends un nombre
+
+
+```
